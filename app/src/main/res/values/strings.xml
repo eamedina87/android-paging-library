@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">paging_test</string>
+    <string name="results_empty">No results found</string>
+</resources>
